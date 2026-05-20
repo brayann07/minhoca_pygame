@@ -1,2 +1,2 @@
-jogo hardcodado pq eu tava entediado
+jogo hardcodado pq eu tava entediado<br>
 biblioteca : pygame,random
